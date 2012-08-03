@@ -3,9 +3,13 @@ Huffman-
 Huffman Algorithm 2 solution - minimum variance &amp; maximum variance in python
 
 0111111101011110000010100
+
  Huffman-Algorithm projet 
+ 
 Author : Hamid Rouhi-Student of Roshdiyeh Tabriz Institute
+
 E-mail : Hrouhi[dot]kh[at]gmail[dot]com
+
 this is huffman algorithm  with maximum variance and this is bad effect on our result in coding on network
 
 alghorithm huffman ,raveshi ast ke symbolhaye yek man-bae etelaat ra estekhraj karde va 

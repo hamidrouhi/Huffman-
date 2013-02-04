@@ -45,7 +45,7 @@ def variance_of_codes(var_list_):
 def get_probs():
 	print "Symbolls : "
 	Symbolls=int(raw_input("++>"))
-	for i in range(Symbolls):
+	for i in range(1,Symbolls):
 		print "Symboll %d :"%i
 		Char=str(raw_input("symboll  ==> : "))
 		Num=float(raw_input("probability ==> : "))
